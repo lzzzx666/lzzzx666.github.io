@@ -29,11 +29,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: lzx
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Liang Zhixiang
   links:
     - https://twitter.com/8AtBGbJUJFHeby6
     - https://github.com/lzzzx666
