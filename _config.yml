@@ -57,3 +57,9 @@ author:
   name: Liang Zhixiang
   url: https://github.com/lzzzx666
   email: 2474771079@qq.com
+
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: vszhub/not-pure-poole
